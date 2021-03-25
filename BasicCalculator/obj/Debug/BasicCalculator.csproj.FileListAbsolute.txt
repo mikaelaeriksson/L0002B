@@ -1,0 +1,10 @@
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\BasicCalculator\bin\Debug\BasicCalculator.exe
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\BasicCalculator\bin\Debug\BasicCalculator.pdb
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\BasicCalculator\obj\Debug\BasicCalculator.csprojAssemblyReference.cache
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\BasicCalculator\obj\Debug\BasicCalculator.Properties.Resources.resources
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\BasicCalculator\obj\Debug\BasicCalculator.csproj.GenerateResource.cache
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\BasicCalculator\obj\Debug\BasicCalculator.exe
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\BasicCalculator\obj\Debug\BasicCalculator.pdb
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\BasicCalculator\obj\Debug\BasicCalculator.Form1.resources
