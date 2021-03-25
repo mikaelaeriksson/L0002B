@@ -1,0 +1,13 @@
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
