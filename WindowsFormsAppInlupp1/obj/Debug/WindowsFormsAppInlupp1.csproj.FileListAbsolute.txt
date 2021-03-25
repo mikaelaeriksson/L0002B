@@ -1,0 +1,10 @@
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\WindowsFormsAppInlupp1\bin\Debug\WindowsFormsAppInlupp1.exe.config
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\WindowsFormsAppInlupp1\bin\Debug\WindowsFormsAppInlupp1.exe
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\WindowsFormsAppInlupp1\bin\Debug\WindowsFormsAppInlupp1.pdb
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\WindowsFormsAppInlupp1\obj\Debug\WindowsFormsAppInlupp1.csprojAssemblyReference.cache
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\WindowsFormsAppInlupp1\obj\Debug\WindowsFormsAppInlupp1.Form1.resources
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\WindowsFormsAppInlupp1\obj\Debug\WindowsFormsAppInlupp1.Properties.Resources.resources
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\WindowsFormsAppInlupp1\obj\Debug\WindowsFormsAppInlupp1.csproj.GenerateResource.cache
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\WindowsFormsAppInlupp1\obj\Debug\WindowsFormsAppInlupp1.csproj.CoreCompileInputs.cache
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\WindowsFormsAppInlupp1\obj\Debug\WindowsFormsAppInlupp1.exe
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\WindowsFormsAppInlupp1\obj\Debug\WindowsFormsAppInlupp1.pdb
