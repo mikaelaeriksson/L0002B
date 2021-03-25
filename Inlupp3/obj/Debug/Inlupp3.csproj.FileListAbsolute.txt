@@ -1,0 +1,10 @@
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Inlupp3\bin\Debug\Inlupp3.exe.config
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Inlupp3\bin\Debug\Inlupp3.exe
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Inlupp3\bin\Debug\Inlupp3.pdb
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Inlupp3\obj\Debug\Inlupp3.csprojAssemblyReference.cache
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Inlupp3\obj\Debug\Inlupp3.Form1.resources
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Inlupp3\obj\Debug\Inlupp3.Properties.Resources.resources
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Inlupp3\obj\Debug\Inlupp3.csproj.GenerateResource.cache
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Inlupp3\obj\Debug\Inlupp3.csproj.CoreCompileInputs.cache
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Inlupp3\obj\Debug\Inlupp3.exe
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Inlupp3\obj\Debug\Inlupp3.pdb
