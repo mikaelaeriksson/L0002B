@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Inlupp2Console/1.0.0": {
+        "runtime": {
+          "Inlupp2Console.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inlupp2Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
