@@ -1,0 +1,13 @@
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Inlupp1\obj\Debug\netcoreapp3.1\Inlupp1.AssemblyInfoInputs.cache
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Inlupp1\obj\Debug\netcoreapp3.1\Inlupp1.AssemblyInfo.cs
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Inlupp1\obj\Debug\netcoreapp3.1\Inlupp1.csproj.CoreCompileInputs.cache
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Inlupp1\bin\Debug\netcoreapp3.1\Inlupp1.exe
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Inlupp1\bin\Debug\netcoreapp3.1\Inlupp1.deps.json
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Inlupp1\bin\Debug\netcoreapp3.1\Inlupp1.runtimeconfig.json
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Inlupp1\bin\Debug\netcoreapp3.1\Inlupp1.runtimeconfig.dev.json
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Inlupp1\bin\Debug\netcoreapp3.1\Inlupp1.dll
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Inlupp1\bin\Debug\netcoreapp3.1\Inlupp1.pdb
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Inlupp1\obj\Debug\netcoreapp3.1\Inlupp1.dll
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Inlupp1\obj\Debug\netcoreapp3.1\Inlupp1.pdb
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Inlupp1\obj\Debug\netcoreapp3.1\Inlupp1.genruntimeconfig.cache
+\\ctx-fs-02.ltuad.ltu.se\CtxRedirects$\mikerv-0\Documents\Mina projekt\Inlupp1\obj\Debug\netcoreapp3.1\Inlupp1.csprojAssemblyReference.cache
